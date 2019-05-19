@@ -1,5 +1,5 @@
-#Example of tesseract-ocr test
-'''
+# Example of tesseract-ocr test
+```
 L'ordine alfabetico
 Le lettere dell'alfabeto arabo-persiano
 Forma Nome della lettera
@@ -30,4 +30,4 @@ P mim
 nun
 v (ar. w), u, ow
 -e
-''' 
+```
